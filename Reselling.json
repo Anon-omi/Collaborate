@@ -12,20 +12,5 @@
     "password": "123",
     "expiresAt": "2026-06-09",
     "allowOffline": false
-  },
-  {
-    "id": "bee139038eeff235",
-    "username": "Ashok",
-    "password": "123",
-    "expiresAt": "2026-06-09",
-    "allowOffline": false
-  },
-
-  {
-    "id": "bee139038eeff235",
-    "username": "Ashok",
-    "password": "123",
-    "expiresAt": "2026-06-09",
-    "allowOffline": false
   }
 ]
